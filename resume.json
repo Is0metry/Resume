@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Woodrow Sims",
+    "location": {
+      "address": "27123 Bumble Bee\n San Antonio, TX 78260",
+      "postalCode": "78260",
+      "city": "San Antonio",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Is0metry",
+        "url": "https://github.com/Is0metry"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Lime Restaurant Concepts",
+      "position": "host, busser, foodrunner, server, bartender",
+      "startDate": "05-01-2008",
+      "endDate": "08-01-2015"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Trinity University",
+      "startDate": "2012-08",
+      "endDate": "2016-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Mobile Development",
+      "level": "intermediate",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "XCode",
+        "CoreData",
+        "Interface Builder",
+        "SpriteKit"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "beginner",
+      "keywords": [
+        "HTML 5",
+        "CSS",
+        "JavaScript",
+        "Apache Tomcat",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "intermediate",
+      "keywords": [
+        "Unity",
+        "C#",
+        "Game AI"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "Relational Databases",
+        "Sequel Pro"
+      ]
+    },
+    {
+      "name": "Project Development",
+      "level": "intermediate",
+      "keywords": [
+        "Object-Oriented Design",
+        "Test-driven Development",
+        "Agile (Scrum)",
+        "Git",
+        "GitHub",
+        "Bitbucket"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Future Tech",
+      "summary": "I have always had an interest in new technologies, gadgets, programming languages, and tools to further our interaction with the virtual world.",
+      "keywords": [
+        "Virtual Reality",
+        "Leap Motion",
+        "Rust (Programming Language)",
+        "Internet of Things"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+name: 'Woodrow Sims'
+info:
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+location:
+  city: 'San Antonio'
+  region: TX
+  code: '78260'
+  address: "27123 Bumble Bee\n San Antonio, TX 78260"
+employment:
+  history:
+    -
+      position: 'host, busser, foodrunner, server, bartender'
+      employer: 'Lime Restaurant Concepts'
+      start: 05-01-2008
+      end: 08-01-2015
+      keywords: []
+education:
+  level: ""
+  history:
+    -
+      institution: 'Trinity University'
+      start: 2012-08
+      end: 2016-12
+      summary: ""
+skills:
+  sets:
+    -
+      name: 'iOS Mobile Development'
+      level: intermediate
+      skills:
+        - Swift
+        - Objective-C
+        - XCode
+        - CoreData
+        - 'Interface Builder'
+        - SpriteKit
+    -
+      name: 'Web Development'
+      level: beginner
+      skills:
+        - 'HTML 5'
+        - CSS
+        - JavaScript
+        - 'Apache Tomcat'
+        - PHP
+    -
+      name: 'Game Development'
+      level: intermediate
+      skills:
+        - Unity
+        - 'C#'
+        - 'Game AI'
+    -
+      name: Databases
+      level: Intermediate
+      skills:
+        - MySQL
+        - 'Relational Databases'
+        - 'Sequel Pro'
+    -
+      name: 'Project Development'
+      level: intermediate
+      skills:
+        - 'Object-Oriented Design'
+        - 'Test-driven Development'
+        - 'Agile (Scrum)'
+        - Git
+        - GitHub
+        - Bitbucket
+social:
+  -
+    label: GitHub
+    network: GitHub
+    url: 'https://github.com/Is0metry'
+    user: Is0metry
+interests:
+  -
+    name: 'Future Tech'
+    summary: 'I have always had an interest in new technologies, gadgets, programming languages, and tools to further our interaction with the virtual world.'
+    keywords:
+      - 'Virtual Reality'
+      - 'Leap Motion'
+      - 'Rust (Programming Language)'
+      - 'Internet of Things'

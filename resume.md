@@ -1,0 +1,46 @@
+Woodrow Sims
+============
+
+
+
+
+
+
+## SKILLS
+
+  - iOS Mobile Development: Swift Objective-C XCode CoreData Interface Builder SpriteKit 
+  - Web Development: HTML 5 CSS JavaScript Apache Tomcat PHP 
+  - Game Development: Unity C# Game AI 
+  - Databases: MySQL Relational Databases Sequel Pro 
+  - Project Development: Object-Oriented Design Test-driven Development Agile (Scrum) Git GitHub Bitbucket 
+
+## EMPLOYMENT
+
+### *host, busser, foodrunner, server, bartender*, Lime Restaurant Concepts (2008-05 — 2015-08)
+
+
+
+
+
+
+## EDUCATION
+
+### Trinity University (2012-08 — 2016-12)
+
+
+
+
+
+
+
+
+
+
+
+
+## INTERESTS
+
+- FUTURE TECH: Virtual Reality Leap Motion Rust (Programming Language) Internet of Things 
+I have always had an interest in new technologies, gadgets, programming languages, and tools to further our interaction with the virtual world.
+
+
